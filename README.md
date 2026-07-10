@@ -1,5 +1,9 @@
 ## Hi  👋, I'm Asmit Prakash 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr.asmitt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmitraj37@gmail.com) 
 
